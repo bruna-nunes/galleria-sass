@@ -5,7 +5,7 @@
 Acesso ao curso <a href="https://www.udemy.com/share/104iSe3@d_irnZP0zmRq39BJrIrPpS3gYCb6S-whDx9bHg0SG30i_NRWBXHyWVmocLv8xz9W/">aqui</a>
 
 
-<img src="imgs/demonstracao.png">
+<img src="img/demonstracao.png">
 
 ---
 

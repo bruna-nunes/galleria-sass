@@ -9,7 +9,7 @@ Acesso ao curso <a href="https://www.udemy.com/share/104iSe3@d_irnZP0zmRq39BJrIr
 
 ---
 
-### :eyes: Para visualizar o projeto clique <a target="_blank" href="#">aqui<a>. 
+### :eyes: Para visualizar o projeto clique <a target="_blank" href="https://bruna-nunes.github.io/galleria-sass/index.html">aqui<a>. 
 
 ---
 
